@@ -1,0 +1,15 @@
+.idea
+*.pyc
+logs/*
+!logs/.gitkeep
+supervisord.pid
+nohup.out
+*.iml
+/data
+/logs
+__pycache__
+/.idea
+.vscode
+/tmp
+/.python-version
+venv
